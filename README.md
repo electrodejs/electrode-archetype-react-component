@@ -1,3 +1,7 @@
+# Deprecated
+
+This repo has been moved [here](https://github.com/electrode-io/electrode/tree/6aba7f359ecce7ec6cf33ef1dee7add3d4963632/packages/electrode-archetype-react-component)
+
 # Archetype: Electrode React Component
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
